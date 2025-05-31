@@ -6,15 +6,21 @@ Survive for as long as possible amongst the cosmos. Fortunately, you've picked u
 ## Controls:
 
 1 - Enable Newtonian Physics
+
 2 - Enable Buridan Physics
+
 3 - Enable Aristotelian Physics
 
 R - Resize window (friendly for 720p)
+
 Z - Reduce thrust power
+
 X - Increase thrust power
 
 UP ARROW - Thrust
+
 RIGHT ARROW - Rotate ship right
+
 LEFT ARROW - Rotate ship left
 
 SPACE - Shoot gun
@@ -27,9 +33,13 @@ G - Fully restore all resource meters of ship (debug tool)
 ## UI Elements:
 
 Top left: Thrust level/current stats
+
 Top right: Current physics model applied
+
 Bottom left: Current upgrades
+
 Bottom middle: Compass. Red points to the next wormhole, and yellow points to the nearest shop planet
+
 Bottom right: Velocity/acceleration vectors visualized
 
 Yellow line: Points towards the nearest unharvested planet
