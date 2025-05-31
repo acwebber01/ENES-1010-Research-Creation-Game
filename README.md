@@ -19,10 +19,10 @@ LEFT ARROW - Rotate ship left
 
 SPACE - Shoot gun
 
+G - Fully restore all resource meters of ship (debug tool)
+
 ### IN SHOP
 1/2/3/4/5 - Purchases respective upgrade
-
-G - Fully restore all resource meters of ship (debug tool)
 
 ## UI Elements:
 
