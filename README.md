@@ -3,7 +3,7 @@
 ## Objective
 Survive for as long as possible amongst the cosmos. Fortunately, you've picked up a reality-altering physics model changing device, which can at will change the current physics of your situation. Use this and your built-in blaster to fend off against rogue enemy ships, all the while maintaining your fuel and oxygen levels from nearby planets. If you've got some spare cash from ore-mining, you can upgrade your ship at one of many shop planets scattered about. Once you're done with your current system, a wormhole can take you to your next sector with untouched resources.
 
-In order to harvest resources from a planet, you must land on it's surface such that the bottom of your ship is aligned with the surface of the planet. Otherwise you'll bounce off and take damage. Once you're on the planet, your ship will automatically harvest the planet's resources. 
+In order to harvest resources from a planet, you must land on its surface such that the bottom of your ship is aligned with the surface of the planet. Otherwise you'll bounce off and take damage. Once you're on the planet, your ship will automatically harvest the planet's resources. 
 
 ## Controls:
 
