@@ -638,11 +638,18 @@ while running:
         screen.fill((0, 0, 0))
         font = pygame.font.SysFont(None, 72)
         game_over_text = font.render("Game Over", True, (255, 0, 0))
-        screen.blit(game_over_text, (WIDTH // 2 - game_over_text.get_width() // 2, HEIGHT // 2))
+        retry_text = font.render("Press R to Retry", True, (255, 255, 255))
+        screen.blit(game_over_text, (WIDTH // 2 - game_over_text.get_width() // 2, HEIGHT // 2 - 50))
+        screen.blit(retry_text, (WIDTH // 2 - retry_text.get_width() // 2, HEIGHT // 2 + 20))
         pygame.display.flip()
+
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
+            elif event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_r:  
+                    game_over = False
+                    generate_new_level(True)  
         continue
 
     time_offset += 0.01
