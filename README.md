@@ -33,7 +33,3 @@ Bottom middle: Compass. Red points to the next wormhole, and yellow points to th
 Bottom right: Velocity/acceleration vectors visualized
 
 Yellow line: Points towards the nearest unharvested planet
-
-## How to build
-
-You will need pyinstaller. If you don't want to do that, here is a prebuilt exe download
